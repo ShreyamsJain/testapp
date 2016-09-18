@@ -186,7 +186,7 @@ DEPENDENCIES
   figaro
   jbuilder (~> 2.0)
   jquery-rails
-  net-ssh (~> 2.9.2.beta)
+  net-ssh (~> 2.9, >= 2.9.2)
   pg
   puma
   rails (= 4.2.3)
